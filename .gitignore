@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+resultados_*/
+!resultados_openai/
+!resultados_openai/**
+estudo_reproducao/
+.DS_Store
