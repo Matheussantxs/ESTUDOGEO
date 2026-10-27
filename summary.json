@@ -1,0 +1,18 @@
+{
+  "perguntas": 30,
+  "repeticoes": 3,
+  "respostas": 90,
+  "status": {
+    "completed": 90
+  },
+  "modelos": {
+    "gpt-4.1-2025-04-14": 90
+  },
+  "buscas_web": 90,
+  "urls_unicas": 267,
+  "primeira_resposta_utc": "2026-10-27T12:46:19.731846+00:00",
+  "ultima_resposta_utc": "2026-10-27T12:50:45.528379+00:00",
+  "tokens_entrada": 1575233,
+  "tokens_saida": 137256,
+  "ranking_indicacoes": "Nao calculado: exige revisao contextual; mencoes automaticas nao sao indicacoes."
+}
